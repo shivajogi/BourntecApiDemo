@@ -1,0 +1,31 @@
+{
+
+  "location":{
+
+    "lat": -38.383494,
+
+    "lng": 33.42762
+
+  },
+
+  "accuracy": 50,
+
+  "name":"7-Crescent place",
+
+  "phone_number": 1234567890,
+
+  "address":"Victoria Park",
+
+  "types":[
+
+    "shoePark",
+
+    "shops"
+
+  ],
+
+  "website":"http://google.com",
+
+  "language":"CA-FRENCH"
+
+}
